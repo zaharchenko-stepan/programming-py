@@ -2,7 +2,7 @@ import random
 import time
 import turtle
 turtle.tracer(0)
-colors = ["red", "blue", "green", "yellow", "orange", "purple", "black"]
+colors = ["red", "blue", "green", "yellow", "orange", "purple",]
 t=turtle.Turtle("circle")
 t.left(45)
 t.up()
